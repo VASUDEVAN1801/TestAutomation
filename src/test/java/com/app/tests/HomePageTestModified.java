@@ -12,6 +12,7 @@ public class HomePageTest {
 	HomePageObject hp;
 	BasePage bp;
 	int randomvalue = new Random().nextInt(500000);
+	int b = 100;
 
 	public HomePageTest() {
 		hp = new HomePageObject();
